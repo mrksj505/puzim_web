@@ -1154,6 +1154,14 @@ section {
 .doctors .member:hover .social {
   opacity: 1;
 }
+.wladze-card {
+  width: 100%;
+  height: 350px;
+}
+.dziekani-card {
+  width: 100%;
+  height: 510px;
+}
 
 /*--------------------------------------------------------------
 # Gallery
